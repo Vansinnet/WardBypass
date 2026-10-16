@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <PluginGuid>se.junge.valheim.wardbypass</PluginGuid>
+    <PluginName>Ward Bypass</PluginName>
+  </PropertyGroup>
+  <ItemGroup>
+    <GameReference Include="BepInEx;0Harmony;assembly_valheim;assembly_utils;Splatform;UnityEngine;UnityEngine.CoreModule;UnityEngine.IMGUIModule;UnityEngine.TextRenderingModule" />
+  </ItemGroup>
+</Project>

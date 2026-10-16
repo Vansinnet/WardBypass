@@ -1,0 +1,12 @@
+{
+  "description": "Lets you build, remove, open, use and dig inside other players' wards. Client-only: only the player who installs it is affected; servers and other players need nothing. F11 toggles it; F10 shows a ward locator that marks nearby wards through walls.",
+  "websiteUrl": "",
+  "installSide": "client",
+  "vanillaClientsSupported": true,
+  "runtimeStatus": "Runtime-pending",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ],
+  "githubRepository": "Vansinnet/WardBypass",
+  "upstream": null
+}
