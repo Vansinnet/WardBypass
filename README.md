@@ -6,6 +6,8 @@ Lets you build, remove, open, use and dig inside other players' wards. Client-on
 
 **Status: Runtime-pending.** The bypass and the ward locator have been tried on a dedicated server, but the full test matrix (single player, listen host, every ward-protected object, location wards, creature terrain attacks) has not been observed yet.
 
+**Download:** [GitHub releases](https://github.com/Vansinnet/WardBypass/releases). Take the newest release (marked *Pre-release* while the mod is Runtime-pending), download `WardBypass-<version>.zip` under *Assets* and extract it into `BepInEx/plugins/WardBypass/`.
+
 ## What It Does
 
 Valheim decides on your own computer whether a ward lets you act at a spot. While the bypass is on, every ward built by a player counts as if you were on its permitted list:
